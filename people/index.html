@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>People - LEARN Lab</title>
+  <link rel="stylesheet" href="/assets/vendor/bootstrap-5.3.8-dist/bootstrap.min.css">
+  <link rel="stylesheet" href="/css/style.css">
+  <script type="module" src="/js/components/NavBar.js"></script>
+  <script type="module" src="/js/components/SiteFooter.js"></script>
+  <script type="module" src="/js/components/ProfileBio.js"></script>
+  <script type="module" src="/js/components/ProfileCard.js"></script>
+  <script type="module" src="index.js"></script>
+</head>
+
+<body>
+  <nav-bar page="people"></nav-bar>
+  <main class="pt-5">
+    <div class="container d-flex flex-column align-items-center justify-content-start pt-5 px-0">
+      <div class="row align-items-center justify-content-center g-5 w-100">
+        <h1 class="display-4 fw-medium">People</h1>
+      </div>
+    </div>
+
+    <section id="faculty" class="container d-flex flex-column align-items-center justify-content-start py-5 px-0">
+      <div class="row align-items-center justify-content-center g-5 w-100">
+        <h2 class="h1 fw-medium mb-0 text-center text-md-start">Faculty</h2>
+        <div class="members-list d-flex flex-column gap-5"></div>
+      </div>
+    </section>
+
+    <section id="postdoc" class="container d-flex flex-column align-items-center justify-content-start py-5 px-0">
+      <div class="row align-items-center justify-content-center g-5 w-100">
+          <h2 class="h1 fw-medium mb-0 text-center text-md-start">Postdoc researchers</h2>
+          <div class="members-list d-flex flex-column gap-5"></div>
+      </div>
+    </section>
+
+    <section id="graduate" class="container d-flex flex-column align-items-center justify-content-start py-5 px-0">
+      <div class="row align-items-center justify-content-center g-5 w-100">
+        <h2 class="h1 fw-medium mb-0 text-center text-md-start">Graduate students</h2>
+        <div class="members-list d-flex flex-column gap-5"></div>
+      </div>
+    </section>
+
+    <section id="undergrad" class="container d-flex flex-column align-items-center justify-content-start py-5 px-0">
+      <div class="row align-items-center justify-content-center g-5 w-100">
+        <h2 class="h1 fw-medium mb-0 text-center text-md-start">Undergraduate students</h2>
+        <div class="members-list d-flex flex-column gap-5"></div>
+      </div>
+    </section>
+
+    <section id="alumni" class="container d-flex flex-column align-items-center justify-content-start py-5 px-0">
+      <div class="row align-items-center justify-content-center g-5 w-100">
+        <h2 class="h1 fw-medium mb-0 text-center text-md-start">Alumni</h2>
+        <div class="members-list row row-cols-1 row-cols-sm-2 row-cols-md-4 g-4 justify-content-center"></div>
+      </div>
+    </section>
+
+    <section id="other" class="container d-flex flex-column align-items-center justify-content-start py-5 px-0">
+      <div class="row align-items-center justify-content-center g-5 w-100">
+        <h2 class="h1 fw-medium mb-0 text-center text-md-start">Other</h2>
+        <div class="members-list row row-cols-1 row-cols-sm-2 row-cols-md-4 g-4 justify-content-center"></div>
+      </div>
+    </section>
+  </main>
+
+  <site-footer></site-footer>
+  <script src="/assets/vendor/bootstrap-5.3.8-dist/bootstrap.bundle.min.js"></script>
+</body>
+
+</html>

@@ -32,7 +32,7 @@
     "role": "PhD Student",
     "photo": "https://hci.cs.sfu.ca/img/People/David.jpg",
     "website": null,
-    "bio": "The quick brown fox jumps over the lazy dog."
+    "bio": null
   },
   {
     "name": "Aham Gupta",
@@ -63,9 +63,107 @@
     "bio": null
   },
   {
+    "name": "Laton Vermette",
+    "role": "Alumni",
+    "photo": "https://hci.cs.sfu.ca/img/People/laton.jpg",
+    "website": null,
+    "bio": null
+  },
+  {
+    "name": "Amir Jahanlou",
+    "role": "Alumni",
+    "photo": "https://hci.cs.sfu.ca/img/People/amir.jpg",
+    "website": null,
+    "bio": null
+  },
+  {
+    "name": "Narges Ashtari",
+    "role": "Alumni",
+    "photo": "https://hci.cs.sfu.ca/img/People/narges.jpg",
+    "website": null,
+    "bio": null
+  },
+  {
+    "name": "Rimika Chaudhury",
+    "role": "Alumni",
+    "photo": "https://hci.cs.sfu.ca/img/People/rimika.jpg",
+    "website": null,
+    "bio": null
+  },
+  {
     "name": "Kimia Kiani",
     "role": "Alumni",
     "photo": "https://hci.cs.sfu.ca/img/People/kimia.jpg",
+    "website": null,
+    "bio": null
+  },
+  {
+    "name": "April Wang",
+    "role": "Alumni",
+    "photo": "https://hci.cs.sfu.ca/img/People/april2.jpg",
+    "website": null,
+    "bio": null
+  },
+  {
+    "name": "Mahya Sadeghi",
+    "role": "Alumni",
+    "photo": "https://hci.cs.sfu.ca/img/People/mahya2.jpg",
+    "website": null,
+    "bio": null
+  },
+  {
+    "name": "Nathaniel Hudson",
+    "role": "Alumni",
+    "photo": "https://hci.cs.sfu.ca/img/People/nathaniel.jpg",
+    "website": null,
+    "bio": null
+  },
+  {
+    "name": "Anson Ho",
+    "role": "Alumni",
+    "photo": "https://hci.cs.sfu.ca/img/People/anson.jpg",
+    "website": null,
+    "bio": null
+  },
+  {
+    "name": "George Cui",
+    "role": "Alumni",
+    "photo": "https://hci.cs.sfu.ca/img/People/george.jpg",
+    "website": null,
+    "bio": null
+  },
+  {
+    "name": "Jackie Lang",
+    "role": "Alumni",
+    "photo": "https://hci.cs.sfu.ca/img/People/jackie.jpg",
+    "website": null,
+    "bio": null
+  },
+  {
+    "name": "Prashant Shashikumar",
+    "role": "Alumni",
+    "photo": "https://hci.cs.sfu.ca/img/People/prashant.jpg",
+    "website": null,
+    "bio": null
+  },
+  {
+    "name": "Ryan Mitts",
+    "role": "Alumni",
+    "photo": "https://hci.cs.sfu.ca/img/People/mitts.jpg",
+    "website": null,
+    "bio": null
+  },
+  {
+    "name": "Shruti Dembla",
+    "role": "Alumni",
+    "photo": "https://hci.cs.sfu.ca/img/People/shruti.jpg",
+    "website": null,
+    "bio": null
+  },
+  {
+    "name": "Celena Alcock",
+    "role": "Alumni",
+    "photo": "https://hci.cs.sfu.ca/img/People/celena.jpg",
     "website": null,
     "bio": null
   }
