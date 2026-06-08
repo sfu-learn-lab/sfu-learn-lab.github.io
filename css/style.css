@@ -1,0 +1,15 @@
+@import url("navbar.css");
+
+:root {
+  color-scheme: light;
+}
+
+* {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  color: #111;
+  background-color: #fff;
+}

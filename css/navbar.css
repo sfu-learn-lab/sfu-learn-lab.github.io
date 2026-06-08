@@ -1,0 +1,156 @@
+@import url("navbar-toggler.css");
+
+:root {
+  --nav-background: rgba(245, 245, 247, 0.85);
+  --nav-border: rgba(0, 0, 0, 0.08);
+  --nav-text: #111;
+  --nav-text-muted: rgba(0, 0, 0, 0.55);
+}
+
+.bg-blur {
+  backdrop-filter: saturate(180%) blur(20px);
+  -webkit-backdrop-filter: saturate(180%) blur(20px);
+  background-color: var(--nav-background);
+  border-bottom: 1px solid var(--nav-border);
+}
+
+#navbar {
+  padding: calc(var(--bs-navbar-padding-y) * 0.75) var(--bs-navbar-padding-x);
+}
+
+#navbar .container-sm {
+  padding-left: calc(var(--bs-gutter-x) * 0.25);
+}
+
+/* Brand & logo */
+
+#navbar.nav-open .navbar-brand {
+  opacity: 0;
+  pointer-events: none;
+}
+
+.learnlab-logo {
+  height: 1.25rem;
+}
+
+@media (max-width: 767px) {
+  .learnlab-logo {
+    height: 1.125rem;
+  }
+}
+
+/* Links */
+
+.navbar-nav .nav-link {
+  font-size: 0.8rem;
+  color: var(--nav-text-muted);
+  transition: color 0s;
+}
+
+.navbar-nav .nav-link.active {
+  color: var(--nav-text);
+  font-weight: 600;
+}
+
+/* Mobile */
+
+@media (max-width: 575px) {
+  #navbar-content {
+    margin-left: 2%;
+    margin-right: 2%;
+  }
+
+  #navbar-content #filler {
+    height: 75vh;
+  }
+
+  .navbar-collapse.collapsing {
+    transition: height 0.45s ease-in-out;
+  }
+
+  #navbar-content.collapsing-in .nav-item {
+    animation: fade_slide_in 0.25s ease-in-out forwards;
+  }
+
+  #navbar-content .nav-item {
+    opacity: 0;
+    padding-left: 1.5rem;
+  }
+
+  #navbar-content .nav-item a {
+    font-size: 1.65rem;
+    font-weight: 550;
+    color: var(--nav-text);
+    opacity: 0.55;
+  }
+
+  #navbar-content .nav-item a.active {
+    opacity: 1;
+  }
+
+  #navbar-content.collapsing-in .nav-item:nth-child(1) {
+    animation-delay: 0.15s;
+  }
+
+  #navbar-content.collapsing-in .nav-item:nth-child(2) {
+    animation-delay: 0.2s;
+  }
+
+  #navbar-content.collapsing-in .nav-item:nth-child(3) {
+    animation-delay: 0.25s;
+  }
+
+  #navbar-content.collapsing-in .nav-item:nth-child(4) {
+    animation-delay: 0.3s;
+  }
+
+  #navbar-content.collapsing-out .nav-item {
+    animation: fade_slide_out 0.25s ease-in-out forwards;
+  }
+}
+
+/* Animations */
+
+@keyframes fade_slide_in {
+  from {
+    opacity: 0;
+    transform: translateY(-4px);
+  }
+
+  to {
+    opacity: 1;
+    transform: translateY(0px);
+  }
+}
+
+@keyframes fade_slide_out {
+  from {
+    opacity: 1;
+    transform: translateY(0px);
+  }
+
+  to {
+    opacity: 0;
+    transform: translateY(-4px);
+  }
+}
+
+@keyframes fade_in {
+  from {
+    opacity: 0;
+  }
+
+  to {
+    opacity: 1;
+  }
+}
+
+@keyframes fade_out {
+  from {
+    opacity: 1;
+  }
+
+  to {
+    opacity: 0;
+  }
+}

@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>LEARN Lab</title>
+  <link rel="stylesheet" href="/assets/vendor/bootstrap-5.3.8-dist/bootstrap.min.css">
+  <link rel="stylesheet" href="/css/style.css">
+  <!-- Components -->
+  <script type="module" src="/js/components/NavBar.js"></script>
+  <script type="module" src="/js/components/PublicationCard.js"></script>
+  <script type="module" src="/js/components/ProfileCard.js"></script>
+  <script type="module" src="/js/components/SiteFooter.js"></script>
+  <!-- Main -->
+  <script type="module" src="/index.js"></script>
+</head>
+
+<body>
+  <nav-bar page="home"></nav-bar>
+  <main class="pt-5">
+    <!-- Hero -->
+    <section id="hero" class="container d-flex align-items-center justify-content-center"
+      style="padding: 15rem 0; max-height: 90vh;">
+      <div class="row align-items-center g-5 w-100">
+        <div class="col-lg-6 d-flex justify-content-center justify-content-lg-start px-6">
+          <div class="d-inline-block bg-white p-2 p-sm-4 border border-white border-5 shadow"
+            style="transform: rotate(-3deg);">
+            <img src="/assets/img/hero.jpg" alt="Hero image" class="img-fluid d-block">
+          </div>
+        </div>
+        <div class="col-lg-6">
+          <h1 class="display-2 mb-3">
+            <span class="fw-semibold">LEARN</span> Lab
+          </h1>
+          <p class="lead mb-0">
+            We are researchers in human-computer interaction at the School of Computing Science at Simon Fraser
+            University focusing on Learning, Empowering & Advancing Research on Novel Interactions. Led by Professor
+            Parmit Chilana, we investigate the quick brown fox who jumps over the lazy dog.
+          </p>
+        </div>
+      </div>
+    </section>
+    <!-- Recent publications -->
+    <section id="recent-publications"
+      class="container d-flex flex-column align-items-center justify-content-start py-5 px-0">
+      <div class="pub-list row align-items-center g-5 w-100">
+        <div
+          class="d-flex flex-column flex-md-row justify-content-md-between align-items-start align-items-md-center gap-2">
+          <h2 class="display-5 fw-medium mb-0">Recent publications</h2>
+          <a href="/publications/" class="link-dark link-opacity-100 link-opacity-75-hover">View all publications</a>
+        </div>
+        <!-- Publication cards -->
+      </div>
+    </section>
+    <!-- Our team -->
+    <section id="our-team" class="container d-flex flex-column align-items-center justify-content-start py-5 px-0">
+      <div class="row align-items-center justify-content-center g-5 w-100">
+        <div
+          class="d-flex flex-column flex-md-row justify-content-md-between align-items-start align-items-md-center gap-2">
+          <h2 class="display-5 fw-medium mb-0">Our team</h2>
+          <a href="/people/" class="link-dark link-opacity-100 link-opacity-75-hover fw-medium">View all people</a>
+        </div>
+        <!-- Prof. Chilana -->
+        <div class="team-featured d-flex justify-content-center"></div>
+        <!-- Everyone else -->
+        <div class="team-grid row row-cols-1 row-cols-sm-2 row-cols-md-4 g-5"></div>
+      </div>
+    </section>
+  </main>
+  <site-footer></site-footer>
+  <script src="/assets/vendor/bootstrap-5.3.8-dist/bootstrap.bundle.min.js"></script>
+</body>
+
+</html>
