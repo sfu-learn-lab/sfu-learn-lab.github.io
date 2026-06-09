@@ -11,11 +11,11 @@ class ProfileCard extends HTMLElement {
         .replace(/^https?:\/\//, '')
         .replace(/^www\./, '')
         .replace(/\/$/, '');
-      websiteHTML = `<a href="${website}" class="small link-dark link-opacity-100 link-opacity-75-hover" target="_blank" rel="noopener">${display}</a>`;
+      websiteHTML = `<a href="${website}" class="small fw-medium link-dark link-opacity-100 link-opacity-75-hover" target="_blank" rel="noopener">${display}</a>`;
     }
 
     this.innerHTML = `
-      <div class="d-flex flex-column align-items-center text-center gap-2">
+      <div class="d-flex flex-column align-items-center text-center gap-3">
         <img src="${photo}" alt="Photo of ${name}"
           class="rounded-circle border border-2 border-light-subtle object-fit-cover"
           style="width: 128px; height: 128px;">
