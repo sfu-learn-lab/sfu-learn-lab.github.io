@@ -409,7 +409,7 @@
     "notes": "24% acceptance rate"
   },
   {
-    "type": "workshop",
+    "type": "workshop_non_archived",
     "title": "The Future of Work in Teaching and Digital Classroom Contexts",
     "url": null,
     "authors": "Vermette, L., McGrenere, J., and Chilana, P.",
@@ -516,7 +516,7 @@
     "notes": "23% acceptance rate"
   },
   {
-    "type": "workshop",
+    "type": "workshop_non_archived",
     "title": "Walk-Up-and-Use 3D Printing: Experiences of Casual Makers",
     "url": null,
     "authors": "Hudson, N., Alcock, C., and Chilana, P.",
@@ -676,7 +676,7 @@
     "image": null
   },
   {
-    "type": "workshop",
+    "type": "workshop_non_archived",
     "title": "Using Crowdsourcing in the Design of Context-Sensitive Help for Web Applications",
     "url": null,
     "authors": "Chilana, P., Ko, A.J., and Wobbrock, J.O.",
@@ -729,7 +729,7 @@
     "notes": "22% acceptance rate. Best Paper Honorable Mention – Top 5%"
   },
   {
-    "type": "workshop",
+    "type": "workshop_non_archived",
     "title": "How Do Open Source Developers Talk about Users?",
     "url": null,
     "authors": "Ko, A.J., and Chilana, P.",
@@ -749,7 +749,7 @@
     "image": null
   },
   {
-    "type": "workshop",
+    "type": "workshop_non_archived",
     "title": "Challenges of Implementing Anonymized Cross-Institutional Federated Querying for Clinical Translational Research",
     "url": null,
     "authors": "Anderson, N., Chilana, P., and Tarczy-Hornoch, P.",
@@ -759,7 +759,7 @@
     "image": null
   },
   {
-    "type": "workshop",
+    "type": "workshop_peer_reviewed",
     "title": "Comparing Bioinformatics Software Development by Computer Scientists and Biologists: An Exploratory Study",
     "url": "https://hci.cs.sfu.ca/Chilana2009BioinformaticsDevelopment.pdf",
     "authors": "Chilana, P., Palmer, C., and Ko, A.J.",
@@ -809,12 +809,52 @@
     "image": null
   },
   {
-    "type": "workshop",
+    "type": "juried",
+    "title": "Building and piloting a customizable knowledge management environment to support public health practice: myPublicHealth",
+    "url": null,
+    "authors": "Revere, D., Chilana, P., Helgerson, S., and Fuller, S.",
+    "venue": "Medical Library Association Annual Meeting, Chicago, IL",
+    "year": 2008,
+    "award": null,
+    "image": null
+  },
+  {
+    "type": "juried",
+    "title": "Piloting a Customizable Knowledge Management System to Support Public Health Practice",
+    "url": null,
+    "authors": "Revere, D., Bugni, P., Hillringhouse, E., Chilana, P., Helgerson, S., Sorensen, S., and Fuller, S.",
+    "venue": "6th Annual Public Health Information Network Conference, Atlanta, GA",
+    "year": 2008,
+    "award": null,
+    "image": null
+  },
+  {
+    "type": "workshop_non_archived",
     "title": "Facilitating Scientific Discovery: Information Extraction Approaches for Biomedical Literature",
     "url": null,
     "authors": "Chilana, P., Revere, D., and Fuller, S.",
     "venue": "NSF Biomedical Informatics Workshop",
     "year": 2007,
+    "award": null,
+    "image": null
+  },
+  {
+    "type": "juried",
+    "title": "ChicTech Soars at SFU",
+    "url": null,
+    "authors": "Chilana, P., Matsui, H., and Lim, A.",
+    "venue": "Canadian Coalition of Women in Engineering, Science and Technology (CCWEST) Conference, Calgary, Alberta",
+    "year": 2006,
+    "award": null,
+    "image": null
+  },
+  {
+    "type": "juried",
+    "title": "Genomic island analysis: Improved web-based software and insights into an apparent gene pool associated with genomic islands",
+    "url": null,
+    "authors": "Hsiao, W., Langille, M., Fedynak, A., Chilana, P., and Brinkman, F.S.L.",
+    "venue": "American Society for Microbiology (ASM) Northwest Branch Meeting, Seattle, WA",
+    "year": 2006,
     "award": null,
     "image": null
   },
@@ -825,6 +865,16 @@
     "authors": "Hsiao, W., Chilana, P., Fedynak, A., and Brinkman, F.S.L.",
     "venue": "International Meeting of the International Society for Computational Biology (ISMB), Detroit, MI",
     "year": 2005,
+    "award": null,
+    "image": null
+  },
+  {
+    "type": "juried",
+    "title": "The Rise and Fall: Women and Computer Science",
+    "url": null,
+    "authors": "Matsui, H., and Chilana, P.",
+    "venue": "Canadian Coalition of Women in Engineering, Science and Technology (CCWEST) Conference, St. Catharines, Ontario",
+    "year": 2004,
     "award": null,
     "image": null
   }
