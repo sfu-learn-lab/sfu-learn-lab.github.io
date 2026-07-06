@@ -12,6 +12,7 @@ const makeCard = (pub) => {
   card.setAttribute('title', pub.title);
   card.setAttribute('authors', pub.authors);
   card.setAttribute('venue', pub.venue);
+  if (pub.type) card.setAttribute('type', pub.type);
   if (pub.year) card.setAttribute('year', pub.year);
   if (pub.url) card.setAttribute('url', pub.url);
   if (pub.image) card.setAttribute('image', pub.image);

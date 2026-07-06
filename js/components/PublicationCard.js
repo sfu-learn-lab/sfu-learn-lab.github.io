@@ -1,11 +1,12 @@
 class PublicationCard extends HTMLElement {
   connectedCallback() {
+    const type = this.getAttribute('type');
     const title = this.getAttribute('title') || '';
     const url = this.getAttribute('url');
     const authors = this.getAttribute('authors') || '';
     const year = this.getAttribute('year') || '';
     const venue = this.getAttribute('venue') || '';
-    const image = this.getAttribute('image') || '/assets/img/gray.jpeg';
+    const image = ['conference', 'journal'].includes(type) ? this.getAttribute('image') || '/assets/img/gray.jpeg' : null;
     const notes = this.getAttribute('notes') || '';
 
     const toAppear = notes === 'to appear'
@@ -19,9 +20,11 @@ class PublicationCard extends HTMLElement {
     this.innerHTML = `
       <div class="col-md-6 col-lg-4 w-100">
         <div class="d-flex flex-row flex-shrink-0 align-items-top p-1 gap-3">
+          ${!image ? `<!--` : ''}
           <div class="flex-shrink-0 border border-1 rounded overflow-hidden" style="width: 64px; height: 64px;">
             <img src="${image}" alt="Publication thumbnail" class="w-100 h-100 object-fit-cover">
           </div>
+          ${!image ? `-->` : ''}
           <div class="d-flex flex-column">
             ${titleHTML}
             <p class="text-secondary small mb-0">${authors}${year ? ` (${year})` : ''}</p>
