@@ -6,7 +6,7 @@ class PublicationCard extends HTMLElement {
     const authors = this.getAttribute('authors') || '';
     const year = this.getAttribute('year') || '';
     const venue = this.getAttribute('venue') || '';
-    const image = ['conference', 'journal'].includes(type) ? this.getAttribute('image') || '/assets/img/gray.jpeg' : null;
+    const image = ['conference', 'journal'].includes(type) ? this.getAttribute('image') || '/assets/img/placeholder.png' : null;
     const notes = this.getAttribute('notes') || '';
 
     const toAppear = notes === 'to appear'
