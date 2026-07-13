@@ -6,7 +6,7 @@ class PublicationCard extends HTMLElement {
     const authors = this.getAttribute('authors') || '';
     const year = this.getAttribute('year') || '';
     const venue = this.getAttribute('venue') || '';
-    const image = ['conference', 'journal'].includes(type) ? this.getAttribute('image') || '/assets/img/placeholder.png' : null;
+    const thumbnail = ['conference', 'journal'].includes(type) ? this.getAttribute('thumbnail') || '/assets/img/placeholder.png' : null;
     const notes = this.getAttribute('notes') || '';
 
     const toAppear = notes === 'to appear'
@@ -20,11 +20,11 @@ class PublicationCard extends HTMLElement {
     this.innerHTML = `
       <div class="col-md-6 col-lg-4 w-100">
         <div class="d-flex flex-row flex-shrink-0 align-items-top p-1 gap-3">
-          ${!image ? `<!--` : ''}
+          ${!thumbnail ? `<!--` : ''}
           <div class="flex-shrink-0 border border-1 rounded overflow-hidden" style="width: 64px; height: 64px;">
-            <img src="${image}" alt="Publication thumbnail" class="w-100 h-100 object-fit-cover">
+            <img src="${thumbnail}" alt="Publication thumbnail" class="w-100 h-100 object-fit-cover">
           </div>
-          ${!image ? `-->` : ''}
+          ${!thumbnail ? `-->` : ''}
           <div class="d-flex flex-column">
             ${titleHTML}
             <p class="text-secondary small mb-0">${authors}${year ? ` (${year})` : ''}</p>

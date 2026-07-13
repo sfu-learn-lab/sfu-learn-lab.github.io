@@ -5,11 +5,12 @@ fetch('/data/publications.json')
 
     publications.slice(0, 5).forEach(pub => {
       const card = document.createElement('publication-card');
+      if (pub.type) card.setAttribute('type', pub.type);
       if (pub.title) card.setAttribute('title', pub.title);
       if (pub.authors) card.setAttribute('authors', pub.authors);
       if (pub.venue) card.setAttribute('venue', pub.venue);
       if (pub.url) card.setAttribute('url', pub.url);
-      if (pub.image) card.setAttribute('image', pub.image);
+      if (pub.thumbnail) card.setAttribute('thumbnail', pub.thumbnail);
       if (pub.notes) card.setAttribute('notes', pub.notes);
       if (pub.year) card.setAttribute('year', pub.year);
       container.appendChild(card);
