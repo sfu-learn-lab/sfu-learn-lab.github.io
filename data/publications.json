@@ -18,7 +18,7 @@
     "year": 2026,
     "url": "https://dl.acm.org/doi/pdf/10.1145/3810212",
     "award": null,
-    "image": null,
+    "image": "/assets/img/publication_icons/khurana_imwut26.jpg",
     "notes": null
   },
   {
@@ -29,7 +29,7 @@
     "year": 2026,
     "url": "https://arxiv.org/pdf/2605.10898",
     "award": null,
-    "image": null,
+    "image": "/assets/img/publication_icons/liu_c&c26.jpg",
     "notes": null
   },
   {
@@ -40,7 +40,7 @@
     "year": 2026,
     "url": "https://dl.acm.org/doi/pdf/10.1145/3772318.3791124",
     "award": null,
-    "image": null,
+    "image": "/assets/img/publication_icons/gautam_chi26.jpg",
     "notes": null
   },
   {
@@ -51,7 +51,7 @@
     "year": 2026,
     "url": "https://dl.acm.org/doi/pdf/10.1145/3772318.3791001",
     "award": null,
-    "image": null,
+    "image": "/assets/img/publication_icons/liu_chi26.jpg",
     "notes": null
   },
   {
@@ -62,7 +62,7 @@
     "year": 2025,
     "url": "https://dl.acm.org/doi/pdf/10.1145/3706598.3713431",
     "award": null,
-    "image": null,
+    "image": "/assets/img/publication_icons/khurana_chi25.jpg",
     "notes": null
   },
   {
@@ -73,7 +73,7 @@
     "year": 2025,
     "url": "https://dl.acm.org/doi/pdf/10.1145/3706598.3714295",
     "award": null,
-    "image": null,
+    "image": "/assets/img/publication_icons/chaudhury_chi25.jpg",
     "notes": null
   },
   {
@@ -84,7 +84,7 @@
     "year": 2024,
     "url": "/assets/pdf/ChaudhuryTVCG24.pdf",
     "award": null,
-    "image": null,
+    "image": "/assets/img/publication_icons/chaudhury_tvcg24.jpg",
     "notes": null
   },
   {
@@ -106,7 +106,7 @@
     "year": 2024,
     "url": "https://dl.acm.org/doi/pdf/10.1145/3631451",
     "award": null,
-    "image": null,
+    "image": "/assets/img/publication_icons/khurana_imwut24.jpg",
     "notes": null
   },
   {
@@ -117,7 +117,7 @@
     "year": 2024,
     "url": "https://dl.acm.org/doi/pdf/10.1145/3635636.3656197",
     "award": null,
-    "image": null,
+    "image": "/assets/img/publication_icons/jahanlou_c&c24.jpg",
     "notes": null
   },
   {
@@ -150,7 +150,7 @@
     "year": 2023,
     "url": "/assets/pdf/WongVLHCC23.pdf",
     "award": null,
-    "image": null,
+    "image": "/assets/img/publication_icons/wong_aitken_vlhcc23.jpg",
     "notes": null
   },
   {
@@ -161,7 +161,7 @@
     "year": 2023,
     "url": "/assets/pdf/ChaudhuryGI23.pdf",
     "award": "best_paper",
-    "image": null,
+    "image": "/assets/img/publication_icons/chaudhury_gi23.jpg",
     "notes": null
   },
   {
@@ -172,7 +172,7 @@
     "year": 2023,
     "url": "/assets/pdf/JahanlouGI23.pdf",
     "award": null,
-    "image": null,
+    "image": "/assets/img/publication_icons/jahanlou_gi23.jpg",
     "notes": null
   },
   {
@@ -183,7 +183,7 @@
     "year": 2022,
     "url": "https://dl.acm.org/doi/pdf/10.1145/3546155.3546642",
     "award": null,
-    "image": null,
+    "image": "/assets/img/publication_icons/ashtari_nordichi22.jpg",
     "notes": null
   },
   {
@@ -194,7 +194,7 @@
     "year": 2022,
     "url": "/assets/pdf/ChahudhuryVLHCC22.pdf",
     "award": null,
-    "image": null,
+    "image": "/assets/img/publication_icons/chaudhury_vlhcc22.jpg",
     "notes": "29% acceptance rate"
   },
   {
@@ -216,7 +216,7 @@
     "year": 2022,
     "url": "https://dl.acm.org/doi/pdf/10.1145/3491102.3517741",
     "award": null,
-    "image": null,
+    "image": "/assets/img/publication_icons/jahanlou_chi22.jpg",
     "notes": "25% acceptance rate"
   },
   {
@@ -249,7 +249,7 @@
     "year": 2021,
     "url": "/assets/pdf/KhuranaVLHCC21.pdf",
     "award": null,
-    "image": null,
+    "image": "/assets/img/publication_icons/khurana_vlhcc21.jpg",
     "notes": "30% acceptance rate"
   },
   {
@@ -271,7 +271,7 @@
     "year": 2021,
     "url": "/assets/pdf/JahanlouGI21.pdf",
     "award": null,
-    "image": null,
+    "image": "/assets/img/publication_icons/jahanlou_gi21.jpg",
     "notes": null
   },
   {
@@ -348,7 +348,7 @@
     "year": 2020,
     "url": "https://dl.acm.org/doi/pdf/10.1145/3357236.3395506",
     "award": null,
-    "image": null,
+    "image": "/assets/img/publication_icons/alvina_dis20.jpg",
     "notes": "24% acceptance rate"
   },
   {
@@ -370,7 +370,7 @@
     "year": 2019,
     "url": "https://dl.acm.org/doi/pdf/10.1145/3332165.3347920",
     "award": null,
-    "image": null,
+    "image": "/assets/img/publication_icons/davis_uist19.jpg",
     "notes": "24% acceptance rate"
   },
   {
@@ -381,7 +381,7 @@
     "year": 2019,
     "url": "/assets/pdf/WangVLHCC19.pdf",
     "award": null,
-    "image": null,
+    "image": "/assets/img/publication_icons/wang_vlhcc19.jpg",
     "notes": "33% acceptance rate"
   },
   {
@@ -414,7 +414,7 @@
     "year": 2019,
     "url": "https://dl.acm.org/doi/pdf/10.1145/3290605.3300570",
     "award": null,
-    "image": null,
+    "image": "/assets/img/publication_icons/kiani_chi19.jpg",
     "notes": "24% acceptance rate"
   },
   {
@@ -447,7 +447,7 @@
     "year": 2018,
     "url": "/assets/pdf/ChilanaVLHCC2018.pdf",
     "award": null,
-    "image": null,
+    "image": "/assets/img/publication_icons/chilana_vlhcc18.jpg",
     "notes": "29% acceptance rate"
   },
   {
@@ -458,7 +458,7 @@
     "year": 2018,
     "url": "https://dl.acm.org/doi/pdf/10.1145/3173574.3173831",
     "award": null,
-    "image": null,
+    "image": "/assets/img/publication_icons/hudson_chi18.jpg",
     "notes": "26% acceptance rate"
   },
   {
@@ -491,7 +491,7 @@
     "year": 2017,
     "url": "/assets/pdf/Exquimo2017.pdf",
     "award": "best_paper",
-    "image": null,
+    "image": "/assets/img/publication_icons/ranaweera_cadcg17.jpg",
     "notes": null
   },
   {
@@ -535,7 +535,7 @@
     "year": 2016,
     "url": "https://dl.acm.org/doi/pdf/10.1145/2858036.2858266",
     "award": null,
-    "image": null,
+    "image": "/assets/img/publication_icons/hudson_chi16.jpg",
     "notes": "23% acceptance rate"
   },
   {
