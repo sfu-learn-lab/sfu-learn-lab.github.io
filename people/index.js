@@ -22,9 +22,9 @@ const makeProfileCard = (person) => {
   col.className = 'col';
   const card = document.createElement('profile-card');
   card.setAttribute('name', person.name);
-  card.setAttribute('role', person.role || '');
+  // card.setAttribute('role', person.role || '');
   if (person.photo) card.setAttribute('photo', person.photo);
-  if (person.website) card.setAttribute('website', person.website);
+  // if (person.website) card.setAttribute('website', person.website);
   col.appendChild(card);
   return col;
 };
