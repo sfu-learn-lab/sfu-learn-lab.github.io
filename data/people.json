@@ -21,13 +21,6 @@
     "bio": "Afra is a PhD student co-supervised by Dr. Parmit Chilana and Dr. Nick Vincent. Her research interests broadly focus on human–AI interaction and AI literacy."
   },
   {
-    "name": "Anjali Khurana",
-    "role": "PhD Student",
-    "photo": "anjali.jpg",
-    "website": "https://anjalikhuranarai.github.io/",
-    "bio": "Anjali Khurana is a Ph.D. student supervised by Dr. Parmit Chilana. Her research focuses on designing and developing LLM-based assistants and copilots for software help-seeking and AR/mixed reality applications that foster effective human–AI collaboration and help users form accurate mental models of these emerging technologies. During her Ph.D., she interned with Microsoft Research's FATE Group in New York, where she explored transparency and user control in LLMs, broadening her interests to include interpretability and explainable AI."
-  },
-  {
     "name": "David Wong",
     "role": "PhD Student",
     "photo": "david.jpg",
@@ -61,6 +54,13 @@
     "photo": null,
     "website": null,
     "bio": null
+  },
+  {
+    "name": "Anjali Khurana",
+    "role": "Alumni",
+    "photo": "anjali.jpg",
+    "website": "https://anjalikhuranarai.github.io/",
+    "bio": "Anjali Khurana is a Ph.D. student supervised by Dr. Parmit Chilana. Her research focuses on designing and developing LLM-based assistants and copilots for software help-seeking and AR/mixed reality applications that foster effective human–AI collaboration and help users form accurate mental models of these emerging technologies. During her Ph.D., she interned with Microsoft Research's FATE Group in New York, where she explored transparency and user control in LLMs, broadening her interests to include interpretability and explainable AI."
   },
   {
     "name": "Laton Vermette",
