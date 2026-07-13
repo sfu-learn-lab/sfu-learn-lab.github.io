@@ -14,8 +14,7 @@ class NavBar extends HTMLElement {
     this.innerHTML = `
       <nav id="navbar" class="navbar navbar-expand-sm fixed-top bg-blur">
         <div class="container-sm d-flex flex-row justify-content-between">
-          <a id="title" class="navbar-brand px-2 d-flex flex-row align-items-center gap-2 ms-md-2"
-            data-bs-toggle="collapse" data-bs-target=".navbar-collapse.show">
+          <a href="/" id="title" class="navbar-brand px-2 d-flex flex-row align-items-center gap-2 ms-md-2">
             <img src="/assets/img/learn-lab-logo.png" alt="LEARN Lab logo" class="learnlab-logo my-1 w-auto">
           </a>
           <button id="navbar-toggler" class="navbar-toggler" type="button" data-bs-toggle="collapse"

@@ -29,6 +29,14 @@
   pointer-events: none;
 }
 
+.navbar-brand {
+  opacity: 1;
+}
+
+.navbar-brand:hover {
+  opacity: 0.75;
+}
+
 .learnlab-logo {
   height: 1.25rem;
 }
