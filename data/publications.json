@@ -7,7 +7,7 @@
     "year": 2026,
     "url": "https://dl.acm.org/doi/pdf/10.1145/3774398.3811617",
     "award": null,
-    "thumbnail": null,
+    "thumbnail": "/assets/img/publication_icons/gupta_l@s26.jpg",
     "notes": null
   },
   {
@@ -95,7 +95,7 @@
     "year": 2024,
     "url": "/assets/pdf/AshtariMTI2024.pdf",
     "award": null,
-    "thumbnail": null,
+    "thumbnail": "/assets/img/publication_icons/ashtari_mti24.jpg",
     "notes": null
   },
   {
@@ -128,7 +128,7 @@
     "year": 2024,
     "url": "https://dl.acm.org/doi/pdf/10.1145/3640543.3645200",
     "award": null,
-    "thumbnail": null,
+    "thumbnail": "/assets/img/publication_icons/khurana_iui24.jpg",
     "notes": null
   },
   {
@@ -139,7 +139,7 @@
     "year": 2023,
     "url": "https://dl.acm.org/doi/pdf/10.1145/3610901",
     "award": null,
-    "thumbnail": null,
+    "thumbnail": "/assets/img/publication_icons/davis_imwut23.jpg",
     "notes": null
   },
   {
@@ -205,7 +205,7 @@
     "year": 2022,
     "url": "https://dl.acm.org/doi/pdf/10.1145/3502718.3524751",
     "award": null,
-    "thumbnail": null,
+    "thumbnail": "/assets/img/publication_icons/wong-aitken_iticse22.jpg",
     "notes": "29% acceptance rate"
   },
   {
@@ -227,7 +227,7 @@
     "year": 2022,
     "url": "https://dl.acm.org/doi/pdf/10.1145/3491102.3501846",
     "award": null,
-    "thumbnail": null,
+    "thumbnail": "/assets/img/publication_icons/vermette_chi22.jpg",
     "notes": "12.5% acceptance rate, 1st round"
   },
   {
@@ -238,7 +238,7 @@
     "year": 2022,
     "url": "/assets/pdf/GiannisakisGI22.pdf",
     "award": null,
-    "thumbnail": null,
+    "thumbnail": "/assets/img/publication_icons/giannisakis_gi22.jpg",
     "notes": null
   },
   {
@@ -260,7 +260,7 @@
     "year": 2021,
     "url": "https://dl.acm.org/doi/pdf/10.1145/3430895.3460133",
     "award": null,
-    "thumbnail": null,
+    "thumbnail": "/assets/img/publication_icons/ramesh_l@s21.jpg",
     "notes": "30% acceptance rate"
   },
   {
@@ -282,7 +282,7 @@
     "year": 2020,
     "url": "https://dl.acm.org/doi/pdf/10.1145/3415184",
     "award": null,
-    "thumbnail": null,
+    "thumbnail": "/assets/img/publication_icons/dubois_20.jpg",
     "notes": null
   },
   {
@@ -293,7 +293,7 @@
     "year": 2020,
     "url": "/assets/pdf/KianiVLHCC20.pdf",
     "award": null,
-    "thumbnail": null,
+    "thumbnail": "/assets/img/publication_icons/kiani_vlhcc20.jpg",
     "notes": "30% acceptance rate"
   },
   {
@@ -304,7 +304,7 @@
     "year": 2020,
     "url": "/assets/pdf/SababVLHCC20.pdf",
     "award": null,
-    "thumbnail": null,
+    "thumbnail": "/assets/img/publication_icons/sabab_vlhcc20.jpg",
     "notes": "30% acceptance rate"
   },
   {
@@ -315,7 +315,7 @@
     "year": 2020,
     "url": "https://dl.acm.org/doi/pdf/10.1145/3313831.3376722",
     "award": "best_paper",
-    "thumbnail": null,
+    "thumbnail": "/assets/img/publication_icons/ashtari_chi20.jpg",
     "notes": "24% acceptance rate. Best Paper Award (top 1%)"
   },
   {
@@ -326,7 +326,7 @@
     "year": 2020,
     "url": "https://dl.acm.org/doi/pdf/10.1145/3313831.3376414",
     "award": null,
-    "thumbnail": null,
+    "thumbnail": "/assets/img/publication_icons/mahmud_chi20.jpg",
     "notes": "24% acceptance rate"
   },
   {
@@ -337,7 +337,7 @@
     "year": 2020,
     "url": "https://dl.acm.org/doi/pdf/10.1145/3357236.3395507",
     "award": "honorable_mention",
-    "thumbnail": null,
+    "thumbnail": "/assets/img/publication_icons/vermette_dis20.jpg",
     "notes": "24% acceptance rate. Best Paper Honorable Mention – Top 5%"
   },
   {
@@ -359,7 +359,7 @@
     "year": 2019,
     "url": "/assets/pdf/SadeghiSRT2019.pdf",
     "award": null,
-    "thumbnail": null,
+    "thumbnail": "/assets/img/publication_icons/sadeghi_srt2019.jpg",
     "notes": null
   },
   {
@@ -392,7 +392,7 @@
     "year": 2019,
     "url": "https://dl.acm.org/doi/pdf/10.1145/3330430.3333621",
     "award": null,
-    "thumbnail": null,
+    "thumbnail": "/assets/img/publication_icons/chaudhury_l@s19.jpg",
     "notes": null
   },
   {
@@ -403,7 +403,7 @@
     "year": 2019,
     "url": "/assets/pdf/NawhalGI2019.pdf",
     "award": null,
-    "thumbnail": null,
+    "thumbnail": "/assets/img/publication_icons/nawhak_gi19.jpg",
     "notes": null
   },
   {
@@ -425,7 +425,7 @@
     "year": 2019,
     "url": "https://dl.acm.org/doi/pdf/10.1145/3290605.3300548",
     "award": null,
-    "thumbnail": null,
+    "thumbnail": "/assets/img/publication_icons/vermette_chi19.jpg",
     "notes": "24% acceptance rate"
   },
   {
@@ -469,7 +469,7 @@
     "year": 2018,
     "url": "https://dl.acm.org/doi/pdf/10.1145/3173574.3174085",
     "award": "honorable_mention",
-    "thumbnail": null,
+    "thumbnail": "/assets/img/publication_icons/wang_chi18.jpg",
     "notes": "26% acceptance rate. Best Paper Honorable Mention – Top 5%"
   },
   {
@@ -480,7 +480,7 @@
     "year": 2017,
     "url": "https://dl.acm.org/doi/pdf/10.1145/3134737",
     "award": null,
-    "thumbnail": null,
+    "thumbnail": "/assets/img/publication_icons/vermette_cscw17.jpg",
     "notes": "27% acceptance rate"
   },
   {
@@ -502,7 +502,7 @@
     "year": 2016,
     "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4749845/",
     "award": null,
-    "thumbnail": null,
+    "thumbnail": "/assets/img/publication_icons/mercer_jmir16.jpg",
     "notes": null
   },
   {
@@ -513,7 +513,7 @@
     "year": 2016,
     "url": "https://dl.acm.org/doi/pdf/10.1145/2957276.2957301",
     "award": null,
-    "thumbnail": null,
+    "thumbnail": "/assets/img/publication_icons/alcock_group16.jpg",
     "notes": "32% acceptance rate"
   },
   {
@@ -524,7 +524,7 @@
     "year": 2016,
     "url": "https://dl.acm.org/doi/pdf/10.1145/2858036.2858323",
     "award": null,
-    "thumbnail": null,
+    "thumbnail": "/assets/img/publication_icons/chilana_chi16.jpg",
     "notes": "23% acceptance rate"
   },
   {
@@ -557,7 +557,7 @@
     "year": 2015,
     "url": "https://dl.acm.org/doi/pdf/10.1145/2807442.2807482",
     "award": null,
-    "thumbnail": null,
+    "thumbnail": "/assets/img/publication_icons/lafreniere_uist15.jpg",
     "notes": "24% acceptance rate"
   },
   {
@@ -568,7 +568,7 @@
     "year": 2015,
     "url": "/assets/pdf/ConvProgramVLHCC15.pdf",
     "award": null,
-    "thumbnail": null,
+    "thumbnail": "/assets/img/publication_icons/chilana_vlhcc15.jpg",
     "notes": "29% acceptance rate"
   },
   {
@@ -579,7 +579,7 @@
     "year": 2015,
     "url": "/assets/pdf/HudsonVLHCC2015.pdf",
     "award": null,
-    "thumbnail": null,
+    "thumbnail": "/assets/img/publication_icons/hudson_vlhcc15.jpg",
     "notes": "29% acceptance rate"
   },
   {
@@ -590,7 +590,7 @@
     "year": 2015,
     "url": "/assets/pdf/CheatSheet-GI.Final.pdf",
     "award": null,
-    "thumbnail": null,
+    "thumbnail": "/assets/img/publication_icons/vermette_gi15.jpg",
     "notes": null
   },
   {
@@ -601,7 +601,7 @@
     "year": 2015,
     "url": "https://dl.acm.org/doi/pdf/10.1145/2702123.2702412",
     "award": "best_paper",
-    "thumbnail": null,
+    "thumbnail": "/assets/img/publication_icons/chilana_chi15.jpg",
     "notes": "23% acceptance rate. Best Paper Award (top 1%)"
   },
   {
@@ -612,7 +612,7 @@
     "year": 2015,
     "url": "https://dl.acm.org/doi/pdf/10.1145/2815347.2830325",
     "award": null,
-    "thumbnail": null,
+    "thumbnail": "/assets/img/publication_icons/nassar_divanet15.jpg",
     "notes": null
   },
   {
@@ -624,7 +624,7 @@
     "url": "https://dl.acm.org/doi/pdf/10.1145/2702613.2724724",
     "award": null,
     "thumbnail": null,
-    "notes": "to appear"
+    "notes": null
   },
   {
     "type": "conference",
@@ -634,7 +634,7 @@
     "year": 2014,
     "url": "https://dl.acm.org/doi/pdf/10.1145/2642918.2647420",
     "award": null,
-    "thumbnail": null,
+    "thumbnail": "/assets/img/publication_icons/fourney_uist14.jpg",
     "notes": "22% acceptance rate"
   },
   {
@@ -645,7 +645,7 @@
     "year": 2013,
     "url": "https://dl.acm.org/doi/pdf/10.1145/2470654.2470685",
     "award": null,
-    "thumbnail": null,
+    "thumbnail": "/assets/img/publication_icons/chilana_chi13.jpg",
     "notes": "20% acceptance rate"
   },
   {
@@ -656,7 +656,7 @@
     "year": 2012,
     "url": "https://dl.acm.org/doi/pdf/10.1145/2207676.2208620",
     "award": null,
-    "thumbnail": null,
+    "thumbnail": "/assets/img/publication_icons/chilana_chi_13_lemonaid.jpg",
     "notes": "23% acceptance rate"
   },
   {
@@ -678,7 +678,7 @@
     "year": 2011,
     "url": "https://dl.acm.org/doi/pdf/10.1145/1978942.1979400",
     "award": null,
-    "thumbnail": null,
+    "thumbnail": "/assets/img/publication_icons/chilana_chi11.jpg",
     "notes": "26% acceptance rate"
   },
   {
@@ -689,7 +689,7 @@
     "year": 2011,
     "url": "https://dl.acm.org/doi/pdf/10.1145/1978942.1979270",
     "award": null,
-    "thumbnail": null,
+    "thumbnail": "/assets/img/publication_icons/chilana_chi_11_survey.jpg",
     "notes": "26% acceptance rate"
   },
   {
@@ -700,7 +700,7 @@
     "year": 2011,
     "url": "/assets/pdf/KoChilanaiConf.pdf",
     "award": null,
-    "thumbnail": null,
+    "thumbnail": "/assets/img/publication_icons/ko_iconf11.jpg",
     "notes": null
   },
   {
@@ -722,7 +722,7 @@
     "year": 2010,
     "url": "/assets/pdf/ChilanaJOEUC.pdf",
     "award": null,
-    "thumbnail": null,
+    "thumbnail": "/assets/img/publication_icons/chilana_joeuc10.jpg",
     "notes": null
   },
   {
@@ -733,7 +733,7 @@
     "year": 2010,
     "url": "/assets/pdf/Chilana2010VLHCC.pdf",
     "award": null,
-    "thumbnail": null,
+    "thumbnail": "/assets/img/publication_icons/chilana_vlhcc10.jpg",
     "notes": "12% acceptance rate for short papers"
   },
   {
@@ -744,7 +744,7 @@
     "year": 2010,
     "url": "https://dl.acm.org/doi/pdf/10.1145/1753326.1753678",
     "award": null,
-    "thumbnail": null,
+    "thumbnail": "/assets/img/publication_icons/chilana_chi10.jpg",
     "notes": "22% acceptance rate"
   },
   {
@@ -755,7 +755,7 @@
     "year": 2010,
     "url": "https://dl.acm.org/doi/pdf/10.1145/1753326.1753576",
     "award": "honorable_mention",
-    "thumbnail": null,
+    "thumbnail": "/assets/img/publication_icons/chilana_chi10_bug_report.jpg",
     "notes": "22% acceptance rate. Best Paper Honorable Mention – Top 5%"
   },
   {
@@ -777,7 +777,7 @@
     "year": 2009,
     "url": "/assets/pdf/NAR2009.pdf",
     "award": null,
-    "thumbnail": null,
+    "thumbnail": "/assets/img/publication_icons/boyce_nar09.jpg",
     "notes": null
   },
   {
