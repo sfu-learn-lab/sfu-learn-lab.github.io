@@ -2,7 +2,11 @@ class ProfileCard extends HTMLElement {
   connectedCallback() {
     const name = this.getAttribute('name') || '';
     const role = this.getAttribute('role') || '';
-    const photo = this.getAttribute('photo') ? `/assets/img/people/${this.getAttribute('photo')}` : '/assets/img/placeholder.png';
+    const photo = this.getAttribute('photo')
+      ? this.getAttribute('photo').toLowerCase().startsWith('http')
+        ? this.getAttribute('photo')
+        : `/assets/img/people/${this.getAttribute('photo')}`
+      : '/assets/img/placeholder.png';
     const website = this.getAttribute('website');
 
     let websiteHTML = '';
