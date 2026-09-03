@@ -6,7 +6,7 @@ class NavBar extends HTMLElement {
       { page: 'home', label: 'Home' },
       { page: 'people', label: 'People' },
       { page: 'publications', label: 'Publications' },
-      { page: 'teaching', label: 'Teaching' },
+      // { page: 'teaching', label: 'Teaching' },
     ];
 
     const getHref = (page) => page ? `/${page}/` : '/';
