@@ -1,10 +1,11 @@
 const SECTIONS = [
-  { id: 'faculty', label: 'Faculty', roles: ['Associate Professor'], component: 'profile-bio' },
-  { id: 'postdoc', label: 'Postdoctoral Researchers', roles: ['Postdoc Researcher'], component: 'profile-bio' },
-  { id: 'graduate', label: 'Graduate Students', roles: ['MSc Student', 'PhD Student'], component: 'profile-bio' },
-  { id: 'undergrad', label: 'Undergraduate Students', roles: ['USRA Student'], component: 'profile-bio' },
-  { id: 'alumni', label: 'Alumni', roles: ['Alumni'], component: 'profile-card' },
-  { id: 'other', label: 'Other', roles: [null], component: 'profile-card' },
+  { id: 'faculty', roles: ['associate professor'], component: 'profile-bio' },
+  { id: 'postdoc', roles: ['postdoc researcher'], component: 'profile-bio' },
+  { id: 'graduate', roles: ['msc student', 'phd student'], component: 'profile-bio' },
+  { id: 'undergrad', roles: ['usra student'], component: 'profile-bio' },
+  { id: 'phd-alumni', roles: ['phd alum'], component: 'profile-bio' },
+  { id: 'msc-alumni', roles: ['msc alum'], component: 'profile-card' },
+  { id: 'other', roles: [null], component: 'profile-card' },
 ];
 
 const makeProfileBio = (person) => {
@@ -22,7 +23,7 @@ const makeProfileCard = (person) => {
   col.className = 'col';
   const card = document.createElement('profile-card');
   card.setAttribute('name', person.name);
-  // card.setAttribute('role', person.role || '');
+  card.setAttribute('role', person.bio || '');
   if (person.photo) card.setAttribute('photo', person.photo);
   // if (person.website) card.setAttribute('website', person.website);
   col.appendChild(card);
@@ -34,7 +35,7 @@ fetch('/data/people.json')
   .then(people => {
     SECTIONS.forEach(({ id, roles, component }) => {
       const members = people.filter(p =>
-        roles.some(r => r === null ? p.role == null : p.role?.includes(r))
+        roles.some(r => r === null ? p.role == null : p.role?.toLowerCase().includes(r))
       );
       if (!members.length) {
         document.querySelector(`#${id}`)?.classList.add('d-none');

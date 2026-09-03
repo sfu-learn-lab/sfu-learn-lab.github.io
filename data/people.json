@@ -3,15 +3,15 @@
     "name": "Parmit Chilana",
     "role": "Associate Professor and Ebco-Eppich Research Chair",
     "photo": "parmit.jpg",
-    "website": "https://hci.cs.sfu.ca/",
-    "bio": "I am an Associate Professor and Ebco-Eppich Research Chair at the School of Computing Science at Simon Fraser University. My main area of research is in human-computer interaction (HCI). I co-direct the Interactive Experiences Lab at SFU. My core research in HCI focuses on inventing and deploying user-centered software help and learning techniques for feature-rich applications in a variety of domains, such as 3D modeling, education, health, and software development. In particular, I am passionate about using interdisciplinary approaches to understand and design for user diversity and empower users from all backgrounds and skills levels to use, learn, and program emerging technologies. My work has been recognized with several awards and honors, including the 2022 CS-CAN Outstanding Early Career Computer Science Researcher Award, an NSERC Discovery Accelerator Award, and Best Paper Awards at venues such as ACM CHI. Before coming to SFU, I was an Assistant Professor at the University of Waterloo. I received my PhD from the University of Washington where I co-founded AnswerDash, a venture-funded startup that commercialized my award-winning dissertation work on crowdsourced contextual help retrieval."
+    "website": "https://hci.cs.sfu.ca/learn",
+    "bio": "Parmit Chilana is an Associate Professor and the Ebco-Eppich Research Chair in the School of Computing Science at Simon Fraser University (SFU), where she also serves as Associate Director of Research and Industry Relations. She is the co-founder and co-director of SFU’s Visual and Interactive Computing Institute (VINCI). Her research in human-computer interaction (HCI) investigates how people learn, create, and work with complex and emerging technologies, and develops novel interactive systems to make these technologies easier to understand and use. Her work spans software learnability, human-AI interaction, and interactive systems across domains including 3D modeling, education, health, and software development, with a particular focus on user diversity, learning, creativity, and human agency. Her research has received several honors, including the CS-CAN Outstanding Early Career Computer Science Researcher Award, an NSERC Discovery Accelerator Supplement, multiple Best Paper recognitions at venues such as ACM CHI, and the 2025 IEEE VL/HCC Most Influential Paper Award. Before joining SFU, she was an Assistant Professor at the University of Waterloo. She received her PhD from the University of Washington, where she co-founded AnswerDash, a venture-funded startup that commercialized her dissertation research on crowdsourced contextual help.\n"
   },
   {
     "name": "Eva Mackamul",
     "role": "Postdoc Researcher",
     "photo": "eva.jpg",
     "website": "http://evamackamul.com/",
-    "bio": "Eva is a postdoc working with Dr. Parmit Chilana on interaction and feature discoverability in human-AI interaction contexts."
+    "bio": "Dr Eva Mackamul is a Postdoctoral Fellow working with Dr Parmit Chilana in the Interactive Experiences Lab at SFU. In particular, she is interested in user perception and interpretation of interfaces and their affordances and how they translate to discoverability and learnability. Previously, she worked as a Postdoctoal Fellow at the Université Grenoble Alpes on the perception of fragility in Shape-Changing Interfaces and completed her PhD focused on improving the discovery of touch-based interactions through visual signifiers at Inria de l’Université de Lille."
   },
   {
     "name": "Afra Liu",
@@ -24,14 +24,14 @@
     "name": "David Wong",
     "role": "PhD Student",
     "photo": "david.jpg",
-    "website": null,
+    "website": "https://dwonga.com/",
     "bio": null
   },
   {
     "name": "Aham Gupta",
     "role": "MSc Student",
     "photo": "aham.jpg",
-    "website": "https://aham18113.vercel.app/",
+    "website": "https://www.linkedin.com/in/aham18113/",
     "bio": "Aham is a Master's student supervised by Dr. Parmit Chilana. His research focuses on designing and evaluating instructor-centered AI tools that integrate into teaching workflows, thereby supporting instructors in their teaching tasks."
   },
   {
@@ -45,126 +45,98 @@
     "name": "Huy Bui",
     "role": "MSc Student",
     "photo": "huy.jpg",
-    "website": "https://maybehuy.com/",
+    "website": "https://www.linkedin.com/in/huybui-vq/",
     "bio": null
   },
   {
     "name": "Alex Noh",
     "role": "USRA Student",
-    "photo": null,
-    "website": null,
+    "photo": "alex1.jpg",
+    "website": "https://ndh707.github.io/",
+    "bio": "I am an undergraduate researcher at Simon Fraser University with broad interest in eXtended Reality (XR), Human-AI Interactions, and Accessibility, particularly building, evaluating, and studying XR & AI systems that enable novel interactions and augments human abilities and cognition. My current research explores how we can use these emerging technologies to better support people with ADHD.\n\nAdditionally, I have had various non-research experience, including teaching, working with children/students with disabilities, SWE practicum at Amazon Web Services and technical internship at a local animation studio."
+  },
+  {
+    "name": "Poorvi Bhatia",
+    "role": "USRA Student",
+    "photo": "https://media.licdn.com/dms/image/v2/D5603AQHIYBYLCw6sGw/profile-displayphoto-crop_800_800/B56Zt_iwIVHsAM-/0/1767371375689?e=1790208000&v=beta&t=JRKLBxirzLR-QdkhhVBSZHR88OXF7NDOC123OKkHCUg",
+    "website": "https://www.linkedin.com/in/poorvi-bhatia/",
+    "bio": null
+  },
+  {
+    "name": "Isabelle Kwan",
+    "role": "USRA Student",
+    "photo": "https://media.licdn.com/dms/image/v2/D5603AQHYEsfUUBGIRA/profile-displayphoto-crop_800_800/B56ZywwG_5J8AI-/0/1772491928291?e=1790208000&v=beta&t=WIHdOEVkUUW--f1V-aZ8inB98aJVhBnchJFm-o1ZEv4",
+    "website": "https://www.linkedin.com/in/isabelle-kwan/",
     "bio": null
   },
   {
     "name": "Anjali Khurana",
-    "role": "Alumni",
+    "role": "PhD Alum",
     "photo": "anjali.jpg",
     "website": "https://anjalikhuranarai.github.io/",
-    "bio": "Anjali Khurana is a Ph.D. student supervised by Dr. Parmit Chilana. Her research focuses on designing and developing LLM-based assistants and copilots for software help-seeking and AR/mixed reality applications that foster effective human–AI collaboration and help users form accurate mental models of these emerging technologies. During her Ph.D., she interned with Microsoft Research's FATE Group in New York, where she explored transparency and user control in LLMs, broadening her interests to include interpretability and explainable AI."
-  },
-  {
-    "name": "Laton Vermette",
-    "role": "Alumni",
-    "photo": "laton.jpg",
-    "website": null,
-    "bio": null
-  },
-  {
-    "name": "Amir Jahanlou",
-    "role": "Alumni",
-    "photo": "amir.jpg",
-    "website": null,
-    "bio": null
-  },
-  {
-    "name": "Narges Ashtari",
-    "role": "Alumni",
-    "photo": "narges.jpg",
-    "website": null,
-    "bio": null
+    "bio": "Anjali Khurana completed her PhD in 2026, focusing on designing and developing LLM-based assistants and copilots for software help-seeking and AR/mixed reality applications that foster effective human–AI collaboration and help users form accurate mental models of these emerging technologies. During her Ph.D., she interned with Microsoft Research's FATE Group in New York, where she explored transparency and user control in LLMs, broadening her interests to include interpretability and explainable AI. She is currently a Research Scientist at Hitachi in Montreal."
   },
   {
     "name": "Rimika Chaudhury",
-    "role": "Alumni",
+    "role": "PhD Alum",
     "photo": "rimika.jpg",
-    "website": null,
-    "bio": null
+    "website": "https://www.linkedin.com/in/rimika/",
+    "bio": "Rimika Chaudhury completed her PhD in 2025. Her research focused on designing visual and interactive self-monitoring tools to support informal and self-directed learning, including systems that help learners track and reflect on their progress. She is currently a Postdoctoral Fellow at McGill University."
+  },
+  {
+    "name": "Narges Ashtari",
+    "role": "PhD Alum",
+    "photo": "narges.jpg",
+    "website": "https://www.linkedin.com/in/nargesashtari/",
+    "bio": "Narges Ashtari completed her PhD in 2024. Her research focused on understanding and lowering barriers to creating AR/VR applications, particularly for novice developers using emerging authoring tools. During her PhD, she interned at Meta and Google. She is currently a UX Researcher at Meta in the USA."
+  },
+  {
+    "name": "Amir Jahanlou",
+    "role": "PhD Alum",
+    "photo": "amir.jpg",
+    "website": "https://www.linkedin.com/in/amirjahanlou/",
+    "bio": "Amir Jahanlou completed his PhD in 2023. His research focused on lowering barriers to creating motion graphics, including example-based approaches that help novice designers learn and build animations by reusing and adapting existing examples. He is currently a Staff Product Manager at LottieFiles."
+  },
+  {
+    "name": "Laton Vermette",
+    "role": "PhD Alum",
+    "photo": "laton.jpg",
+    "website": "https://www.linkedin.com/in/latonv/",
+    "bio": "Laton Vermette completed his PhD in 2022. His research focused on designing interactive systems to help people learn and customize complex software, including example-based approaches for discovering new features. During his PhD, he interned at Microsoft. He is currently a Software Engineer and UX Researcher at the Internet Archive."
   },
   {
     "name": "Kimia Kiani",
-    "role": "Alumni",
+    "role": "MSc Alum",
     "photo": "kimia.jpg",
-    "website": null,
-    "bio": null
+    "website": "https://www.linkedin.com/in/kimia-kiani/",
+    "bio": "Currently Senior Software Engineer, Thinkific, Canada"
   },
   {
     "name": "April Wang",
-    "role": "Alumni",
+    "role": "MSc Alum",
     "photo": "april.jpg",
-    "website": null,
-    "bio": null
+    "website": "https://www.linkedin.com/in/april-yi-wang-76397b80/",
+    "bio": "Currently Assistant Professor, ETH Zurich, Switzerland"
   },
   {
     "name": "Mahya Sadeghi",
-    "role": "Alumni",
+    "role": "MSc Alum",
     "photo": "mahya.jpg",
-    "website": null,
-    "bio": null
+    "website": "https://www.linkedin.com/in/mahyasadeghi/",
+    "bio": "Currently Associate Director of Data Science, University of Washington, USA"
   },
   {
     "name": "Nathaniel Hudson",
-    "role": "Alumni",
+    "role": "MSc Alum",
     "photo": "nathaniel.jpg",
-    "website": null,
-    "bio": null
+    "website": "https://www.linkedin.com/in/nathaniel-hudson-5b671445/",
+    "bio": "Currently Manager, UX & Industrial Design, Ross Video, Ottawa"
   },
   {
     "name": "Anson Ho",
-    "role": "Alumni",
+    "role": "MSc Alum",
     "photo": "anson.jpg",
-    "website": null,
-    "bio": null
-  },
-  {
-    "name": "George Cui",
-    "role": "Alumni",
-    "photo": "george.jpg",
-    "website": null,
-    "bio": null
-  },
-  {
-    "name": "Jackie Lang",
-    "role": "Alumni",
-    "photo": "jackie.jpg",
-    "website": null,
-    "bio": null
-  },
-  {
-    "name": "Prashant Shashikumar",
-    "role": "Alumni",
-    "photo": "prashant.jpg",
-    "website": null,
-    "bio": null
-  },
-  {
-    "name": "Ryan Mitts",
-    "role": "Alumni",
-    "photo": "mitts.jpg",
-    "website": null,
-    "bio": null
-  },
-  {
-    "name": "Shruti Dembla",
-    "role": "Alumni",
-    "photo": "shruti.jpg",
-    "website": null,
-    "bio": null
-  },
-  {
-    "name": "Celena Alcock",
-    "role": "Alumni",
-    "photo": "celena.jpg",
-    "website": null,
-    "bio": null
+    "website": "\nhttps://www.linkedin.com/in/ansonhsho/",
+    "bio": "Currently Product Manager, Microsoft Research, USA"
   }
 ]
