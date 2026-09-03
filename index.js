@@ -3,7 +3,7 @@ fetch('/data/publications.json')
   .then(publications => {
     const container = document.querySelector('#recent-publications .pub-list');
 
-    publications.slice(0, 5).forEach(pub => {
+    publications.slice(0, 10).forEach(pub => {
       const card = document.createElement('publication-card');
       if (pub.type) card.setAttribute('type', pub.type);
       if (pub.title) card.setAttribute('title', pub.title);
@@ -23,7 +23,7 @@ fetch('/data/people.json')
     const featured = document.querySelector('#our-team .team-featured');
     const grid = document.querySelector('#our-team .team-grid');
 
-    const active = people.filter(p => p.role !== 'Alumni');
+    const active = people.filter(p => p.role.toLowerCase().includes('alum') === false);
     const prof = active.find(p => p.name === 'Parmit Chilana');
     const rest = active.filter(p => p.name !== 'Parmit Chilana');
 
