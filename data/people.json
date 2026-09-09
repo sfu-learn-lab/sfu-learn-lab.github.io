@@ -25,7 +25,7 @@
     "role": "PhD Student",
     "photo": "david.jpg",
     "website": "https://dwonga.com/",
-    "bio": null
+    "bio": "David Wong is pursuing his PhD in Computing Science at Simon Fraser University, under the supervision of Prof. Parmit Chilana and Diana Cukierman. Before that, he was the founder and chief of Learning Technologies Office at Universidad Privada del Norte, in Peru, for eight years. In that position, David developed several tools to help teachers and students to achieve their educational goals using technology. David's main areas of interest are in Human-Computer Interaction, Internet of Things (IoT), and Computing Education. He holds a Bachelor's degree in Computer Science from National University of Trujillo, Peru."
   },
   {
     "name": "Aham Gupta",
@@ -58,16 +58,16 @@
   {
     "name": "Poorvi Bhatia",
     "role": "USRA Student",
-    "photo": "https://media.licdn.com/dms/image/v2/D5603AQHIYBYLCw6sGw/profile-displayphoto-crop_800_800/B56Zt_iwIVHsAM-/0/1767371375689?e=1790208000&v=beta&t=JRKLBxirzLR-QdkhhVBSZHR88OXF7NDOC123OKkHCUg",
+    "photo": "poorvi.jpg",
     "website": "https://www.linkedin.com/in/poorvi-bhatia/",
-    "bio": null
+    "bio": "I’m a fourth-year Computing Science undergraduate at Simon Fraser University interested in the intersection of Human-Computer Interaction and Artificial Intelligence. As an undergraduate research assistant at the ixLab, I had the opportunity to contribute to research on how people learn and interact with generative AI tools and how AI literacy develops in creative communities. These experiences have strengthened my interest in HCI research and human-centered AI."
   },
   {
     "name": "Isabelle Kwan",
     "role": "USRA Student",
-    "photo": "https://media.licdn.com/dms/image/v2/D5603AQHYEsfUUBGIRA/profile-displayphoto-crop_800_800/B56ZywwG_5J8AI-/0/1772491928291?e=1790208000&v=beta&t=WIHdOEVkUUW--f1V-aZ8inB98aJVhBnchJFm-o1ZEv4",
+    "photo": "isabelle.jpg",
     "website": "https://www.linkedin.com/in/isabelle-kwan/",
-    "bio": null
+    "bio": "Isabelle is a computing science student at SFU who completed an NSERC USRA with Dr. Parmit Chilana in 2024. During her time in the lab, she contributed to two projects: “Milestones: the design and field evaluation of a semi-automated tool for promoting self-directed learning among online learners” and “How Creatives Approach GenAI Image Generation: Tensions Between Structured Guidance, Self-Experimentation, and Creative Autonomy.” As well, she helped manage, run studies, and assist with many additional projects that involved haptics, explainable AI, and accessibility tools. Currently, she continues her HCI research through several other labs, both at SFU and at the University of Waterloo, and hopes to continue her research into graduate studies! Though she no longer works full-time in the lab, she still loves to attend meetings every once in a while and spend time with the amazing ixLab members."
   },
   {
     "name": "Anjali Khurana",
