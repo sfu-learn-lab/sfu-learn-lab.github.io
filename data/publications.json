@@ -1,6 +1,17 @@
 [
   {
     "type": "conference",
+    "title": "TangiTeach: An Integrated Web and Hardware Platform for Empowering Instructors to Author Lessons Using Electronics-Based Tangibles",
+    "authors": "Wong-Aitken, D., Zheng, Q., Siu, D., Sarkar, S., Carpendale, S., and Chilana, P.",
+    "venue": "Proceedings of the IEEE Symposium on Visual Languages and Human-Centric Computing (VL/HCC 26)",
+    "year": 2026,
+    "url": "/assets/pdf/WongAitkenVLHCC26",
+    "award": null,
+    "thumbnail": "/assets/img/publication_icons/wongaitken_vlhcc26.jpg",
+    "notes": "[to appear]"
+  },
+  {
+    "type": "conference",
     "title": "TEACHMate: Designing in-context instructor-centered GenAI support for learning management systems",
     "authors": "Gupta, A., Jain, S., Pandit, Y., Chaudhury, R., & Chilana, P.",
     "venue": "Proceedings of the ACM Learning at Scale Conference (L@S)",
