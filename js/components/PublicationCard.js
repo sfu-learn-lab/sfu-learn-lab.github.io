@@ -9,7 +9,7 @@ class PublicationCard extends HTMLElement {
     const thumbnail = ['conference', 'journal'].includes(type) ? this.getAttribute('thumbnail') || '/assets/img/placeholder.png' : null;
     const notes = this.getAttribute('notes') || '';
 
-    const toAppear = notes === 'to appear'
+    const toAppear = notes.toLowerCase().includes('to appear')
       ? ' <span>[to appear]</span>'
       : '';
 
